@@ -1,5 +1,5 @@
 {
-  "name": "asyncqueue",
+  "name": "node-asyncqueue",
   "version": "1.0.0",
   "description": "a utility that executes multiple promises and reslves upon completion",
   "main": "index.js",
