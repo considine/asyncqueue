@@ -1,0 +1,33 @@
+{
+  "name": "asyncqueue",
+  "version": "1.0.0",
+  "description": "a utility that executes multiple promises and reslves upon completion",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/considine/asyncqueue.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "asynchronous",
+    "javascript",
+    "queue",
+    "resolve"
+  ],
+  "author": "Jack Considine <jackconsidine3@gmail.com> (jackconsidine.wordpress.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/considine/asyncqueue/issues"
+  },
+  "homepage": "https://github.com/considine/asyncqueue#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
